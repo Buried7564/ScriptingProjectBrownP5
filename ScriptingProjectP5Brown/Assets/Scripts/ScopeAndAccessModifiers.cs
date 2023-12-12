@@ -8,7 +8,7 @@ public class ScopeAndAccessModifiers : MonoBehaviour
 
 
 ; private int beta = 0;
-    private int gamma = 5;
+  private int gamma = 5;
 
 
     private AnotherClass myOtherClass;
